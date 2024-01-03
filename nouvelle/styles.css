@@ -91,7 +91,7 @@ hr{
 }
 /*Découverts*/
 .im-bg{
-    background: rgba(0, 0, 0, 0.6) url(/images/35.png);
+    background: rgba(0, 0, 0, 0.6) url(image_nouvelle/35.png);
     background-size: cover;
     background-blend-mode: darken;
     display: flex;
